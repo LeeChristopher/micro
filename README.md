@@ -1,2 +1,2 @@
 # micro
-go micro
+go micro example
